@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="524.0" prefWidth="584.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.RingController">
+   <children>
+      <PieChart fx:id="chart" layoutX="42.0" layoutY="50.0" title="成绩分析" />
+   </children>
+</AnchorPane>
